@@ -1,7 +1,9 @@
-# private-Proof-of-Authority-PoA-Ethereum-Blockchain
+# private-Proof-of-Authority-PoA-Ethereum-Blockchain<br>
 # Ubuntu server 18.04 VM Installed on VirtualBox 
 #REQUIREMENTS : : Bridged Network  for the VM
+
 sudo -i
+
 git clone https://github.com/AymenBenSaada/private-Proof-of-Authority-PoA-Ethereum-Blockchain.git
 cd private-Proof-of-Authority-PoA-Ethereum-Blockchain/
 chmod +x install.sh
