@@ -1,7 +1,9 @@
 
 
 #private-Proof-of-Authority-PoA-Ethereum-Blockchain
+
 #Ubuntu server 18.04 VM Installed on VirtualBox 
+
 #REQUIREMENTS : : Bridged Network  for the VM
 
 sudo -i
